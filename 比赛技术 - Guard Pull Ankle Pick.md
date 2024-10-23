@@ -15,6 +15,14 @@ tags:
 
 
 
+## TIE -UP
+
+- COLLAR TIE
+- COLLAR GRIP
+- tie up 吊体重训练
+
+
+
 ## 步法
 
 ## 身法
@@ -39,3 +47,11 @@ tags:
 
 - 领把推得太早
 - 没有真正带动对手给反应
+
+
+
+## SET UP
+
+- 使用公平把骗对手弯腰低头
+  - 对手抬头 - 抱腿
+  - 对手低头 - ankle pick
